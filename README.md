@@ -8,7 +8,7 @@ Here's what you have to do:
   * [Download](https://github.com/ahammadshawki8/PyCampaign20.git) the repository in your device.
   * Open the [Syllabus.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/%231%20Syllabus.pdf) file.
   * Read all the pycampaign files according to the syllabus and practice coding daily.
-  * After completing all the campaign (except the last pycampaign16 file) files, open [Problems.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/%231%20Problems.pdf).
+  * After completing all the campaign (except the last pycampaign16 file) files, open [Problems.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/%232%20Problems.pdf).
   * Solve all the problems and [mail](mailto:ahammadshawki8@gmail.com) me the solutions.
   * Read [pycampaign[career_talk + future programming plans]](https://github.com/ahammadshawki8/PyCampaign20/blob/master/pycampaign16%5Bcareer_talk%20%2B%20future%20programming%20plans%5D.txt) and follow the advice.
   
