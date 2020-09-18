@@ -5,12 +5,12 @@ During the Corona outbreak, my school was closed for about 5 months. At that tim
 Though the campaign is ended, you can also take part in the PyCampaign20 if you are interested enough to start your coding journey with Python in this lockdown period.
 Also if you are from different programming languages, you can learn Python Basics from here.
 Here's what you have to do:
-  * Download the repository in your device.
+  * [Download](https://github.com/ahammadshawki8/PyCampaign20.git) the repository in your device.
   * Open the [Syllabus.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/Syllabus.pdf) file.
   * Read all the pycampaign files according to the syllabus and practice coding daily.
-  * After completing all the campaign (except the last one) files, open [Problems.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/Problems.pdf).
+  * After completing all the campaign (except the last pycampaign16 file) files, open [Problems.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/Problems.pdf).
   * Solve all the problems and [mail](mailto:ahammadshawki8@gmail.com) me the solutions.
-  * Read [pycampaign[]]()
+  * Read [pycampaign[career_talk + future programming plans]](https://github.com/ahammadshawki8/PyCampaign20/blob/master/pycampaign16%5Bcareer_talk%20%2B%20future%20programming%20plans%5D.txt) and follow the advice.
   
 Congratulations! Now you know the basics of Python and have next 3 years plan in your hand. So, what is stopping you to explore the programming world? The more you go into the deep the more you will amaze. Thank you for being a part of PyCampaign20.
 
