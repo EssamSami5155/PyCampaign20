@@ -1,0 +1,149 @@
+Topics we have learned so far in PyCampaign20:
+	01. Intro
+	02. variables + string manipulation
+	03. solving math
+	04. if statement part 1
+	05. if statement part 2
+	06. for loop
+	07. while loop
+	08. list
+	09. dictionary
+	10. set + tuple
+	11. functions
+	12. error handling
+	13. standard libraries (math + random)
+	14. classes and objects
+	15. running.........
+
+
+# Choose your catagory:
+	~ catagory 0: You have not joined in our campaign or have not attended in any class.
+	~ catagory 1: You have attended few classes but missed more.
+	~ catagory 2: You have attended almost every classes. 
+
+
+# For catagory 0
+	~ download python in your device
+	~ read our previous chats in the channel
+	~ continue with catagory 1
+
+
+# For catagory 1
+	~ see which topics you have missed
+	~ then go to Python Basics link (https://github.com/ahammadshawki8/Python-Basics)
+	~ learn your missed topics by reading the files
+	~ continue with catagory 2
+
+
+
+
+# catagory 2
+
+	~ Read this files
+		~ My blog about my programming journey
+		Blog link: 		https://ahammadshawki8.github.io/Portfolio/blog1.html
+
+		~ Complete reading the files from these links 
+		Python Basics: 	https://github.com/ahammadshawki8/Python-Basics
+		OOP:			https://github.com/ahammadshawki8/Object-Oriented-Programming-in-Python
+		Standard libs:	https://github.com/ahammadshawki8/Standard-Libraries-of-Python
+		Book:			Banglai Python [Given in the Channel]- dont read the crossed section
+		# you dont have to read this files urgently, take your time.
+
+
+	~ Immidiate steps
+		~ Subscribe this channels and see their videos in your past-time		
+		Youtube:
+			~ Corey Schafer		[Resourceful]
+			~ Sentdex			[Fun]
+			~ TechwithTimm		[Variety]
+			~ Clever Programmer [Inspiration]
+			~ Jhankar Mahbub	[Bangla]
+
+		~ Create accounts in these sites
+		Account:
+			~ GitHub 		[follow me and others, see their codes and upload yours]
+			~ StackOverFlow [ask questions and see the answers/questions of others]
+			~ CodeChef		[International competetive programming site, take part in contests]
+			~ Toph			[National competetive programming site, solve problems]
+			~ Twitter 		[Biggest programming community, see my following list to quickly get inside of the community]
+
+		~ If you stuck in anywhere in your programming life, just ask Google
+
+
+
+		Now you know the basics and also part of worlds programming community
+		learn Data Structures and Algorithms next, basic need of a programmer
+
+		Data Structures and Algorithms:
+			~ subscribe this channels
+			Youtube:
+				~ Hackerrank
+				~ CS dojo
+			Book:
+				~ Data Structures and Algorithms in Python
+				[I have the book, if you need then I will give you the link]
+
+
+		Now you have to learn some extra languages besides python.
+		~ Command line [only the simple basics]
+			~ CMD/PowerShell - for windows
+			  [https://github.com/ahammadshawki8/Command-Line-Fundamentals]
+			~ Bash - for mac/linux
+		~ DataBase
+			~SQL -> PostgreSQL/MongoDB/MySQL
+
+
+
+		Now you have to focus on certain fields and learn accordingly
+
+		Web Development: (learn the following parts)
+			~ Django
+			~ Flask
+			~ Html
+			~ CSS
+			~ JavaScript/PHP
+
+		Software Engineering:
+			~ Apache spark
+			~ Selenium
+			~ Pyramid
+			~ web2py
+			~ OpenNN
+
+		Data Science:
+			~ Numpy
+			~ Scipy
+			~ Pandas
+			~ Matplotlib
+			~ Pytorch
+			~ Tensorflow
+			~ Keras
+			~ Scikit Learn
+			~ R
+
+		Game Development:
+			~ PyGame
+			~ PyKyra
+			~ PyOpenGL
+			~ Kivy
+			~ Panda3D
+
+			# Python not so great for game dev, so you have to learn-
+			~ C++/Java
+			~ Unity/Unreal Engine
+ 
+
+		# there are more fields, explore them in google and choose according to your choice
+
+
+----------------------------End------------------------------------
+
+Official Announcement: 
+Code Loop [Zoom Channel]
+	~ Programming Discussion
+	~ Problem
+	~ Solution
+	~ Project
+	~ Community
+	~ Open!! [You can invite anyone]
