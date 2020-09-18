@@ -1,16 +1,8 @@
-# ---------------------------------Lecture1 Notes-----------------------------------------------
 # Before reading this Download python interpreter in your device.
     # pydroid3 for android
-    # python for windows (link: https://www.python.org/downloads/)
+    # python for windows/mac/linux (link: https://www.python.org/downloads/)
+    # pythonista for ios
 
-
-# Todays Topic:
-    # 1. Intro with Python
-    # 2. Basic DataTypes
-    # 3. How to use Functions/Command/method
-    # 4. Printing
-    # 5. Slicing
-    # 6. Challenge
 
 
 # 1. Intro with Python
@@ -101,5 +93,3 @@ print(a[0::2]) # step is 2, print first to last but gaps 1 letter in each step
 print(a[0::3]) # step is 3, print first to last but gaps 2 letter in each step
 print(a[-1::-1]) # print the whole message reversely.
       
-#6. Challange
-# -- > you will find that in PyCampaign Channel. Share the solution file there.

@@ -47,7 +47,8 @@ Topics we have learned so far in PyCampaign20:
 		Python Basics: 	https://github.com/ahammadshawki8/Python-Basics
 		OOP:			https://github.com/ahammadshawki8/Object-Oriented-Programming-in-Python
 		Standard libs:	https://github.com/ahammadshawki8/Standard-Libraries-of-Python
-		Book:			Banglai Python [Given in the Channel]- dont read the crossed section
+		Book:			Banglai Python [for Native Bengali]- dont read the crossed section
+						Python Notes for professionals [for Native English]
 		# you dont have to read this files urgently, take your time.
 
 
