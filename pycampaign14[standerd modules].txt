@@ -1,0 +1,5 @@
+# There are several standard modules in python. 
+# some of them are very useful and handy in our day to day code.
+# Learn about them in this link below.
+
+Standard libs:	https://github.com/ahammadshawki8/Standard-Libraries-of-Python

@@ -137,13 +137,4 @@ Topics we have learned so far in PyCampaign20:
 		# there are more fields, explore them in google and choose according to your choice
 
 
-----------------------------End------------------------------------
-
-Official Announcement: 
-Code Loop [Zoom Channel]
-	~ Programming Discussion
-	~ Problem
-	~ Solution
-	~ Project
-	~ Community
-	~ Open!! [You can invite anyone]
+----------------------------End-----------------------------------

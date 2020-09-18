@@ -1,0 +1,4 @@
+# Object oriented programming is a large topic to discuss in single script.
+# follow the link below to learn oop deeply in Python.
+
+OOP:			https://github.com/ahammadshawki8/Object-Oriented-Programming-in-Python
