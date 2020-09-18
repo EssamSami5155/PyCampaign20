@@ -9,7 +9,7 @@
     # 2. Basic DataTypes
     # 3. How to use Functions/Command/method
     # 4. Printing
-    # 5. Spliting
+    # 5. Slicing
     # 6. Challenge
 
 
@@ -80,7 +80,7 @@ print("I can\t swim") # python will think \t is tab, it wont print the backslash
 # So, we can add another backslash before the bacjkslash/
 print("I can\\t swim") # what we expected.
 
-#5. Splitling
+#5. Slicing
 # Index : Characters Location in string. Starts with 0. Also possible negative indexing.
 # "Hello World"
 #  012345678910
