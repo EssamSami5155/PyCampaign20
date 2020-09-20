@@ -15,5 +15,9 @@ Here's what you have to do:
   
 Congratulations! Now you know the basics of Python and have next 3 years plan in your hand. So, what is stopping you to explore the programming world? The more you go into the deep the more you will amaze. Thank you for being a part of PyCampaign20.
 
+# License
+This PyCampaign20 repository is licensed under the unlicense. Anyone can use the codes for learning or teaching purpose if they mention my name in their program.
+Details can be found in [LICENSE](https://github.com/ahammadshawki8/PyCampaign20/blob/master/LICENSE)
+
 
 ![PyCampaign20](https://github.com/ahammadshawki8/PyCampaign20/blob/master/image/thanks.jpg)
