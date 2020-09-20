@@ -1,14 +1,15 @@
-# Before reading this Download python interpreter in your device.
+# Before reading this Download Python interpreter in your device.
     # pydroid3 for android
-    # python for windows/mac/linux (link: https://www.python.org/downloads/)
     # pythonista for ios
+    # python 3 for windows/mac/linux (link: https://www.python.org/downloads/)
+    
 
 
 
 # 1. Intro with Python
-# --> language give us opportunity to contact with device.
-# --> python is currently the first famous language.
-# --> it is used for Artificial Intelligence, Web Development, Software Enginnering and may more.
+# --> Programing language give us opportunity to contact with devices.
+# --> Python is currently the number one famous programming language.
+# --> it is used for Artificial Intelligence, Web Development, Software Enginnering and many more.
 
 # first line of code - this is called comment (have to start with #, doesnt inturupt the programme)
 
