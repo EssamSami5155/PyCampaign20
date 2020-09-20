@@ -5,6 +5,7 @@ During the Corona outbreak, my school was closed for about 5 months. At that tim
 Though the campaign is ended, you can also take part in the PyCampaign20 if you are interested enough to start your coding journey with Python in this lockdown period.
 Also if you are from different programming languages, you can learn Python Basics from here.
 Here's what you have to do:
+  * Download and Install [Python 3](https://www.python.org/downloads/) in your device.
   * [Download](https://github.com/ahammadshawki8/PyCampaign20.git) the repository in your device.
   * Open the [Syllabus.pdf](https://github.com/ahammadshawki8/PyCampaign20/blob/master/%231%20Syllabus.pdf) file.
   * Read all the pycampaign files according to the syllabus and practice coding daily.
